@@ -1,0 +1,74 @@
+{
+  "title": "Habit Formation: The Power of Repetition",
+  "description": "Exploring the transformative process of habit formation through repetition and practice.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "visuals": {
+        "type": "image",
+        "source": "Illustration of neural pathways forming with repetition"
+      },
+      "narration": "Habit formation is a remarkable journey where behaviors transition from conscious actions to automatic responses through repetitive practice."
+    },
+    {
+      "scene_id": 2,
+      "visuals": {
+        "type": "text_overlay",
+        "elements": [
+          "Automaticity",
+          "Repetition",
+          "Behavior Change"
+        ],
+        "background_type": "abstract",
+        "background_color": "green"
+      },
+      "narration": "The duration to solidify a habit varies; what truly matters is the consistent repetition that engrains the behavior into our daily routines."
+    },
+    {
+      "scene_id": 3,
+      "visuals": {
+        "type": "text_list",
+        "elements": [
+          "Practice",
+          "Consistency",
+          "Transformation"
+        ],
+        "background_type": "minimal"
+      },
+      "narration": "Building a habit is less about the time it takes and more about the dedication to practice. With persistence, habits evolve from intentional efforts to subconscious actions."
+    },
+    {
+      "scene_id": 4,
+      "visuals": {
+        "type": "image_collage",
+        "images": [
+          "Image of a person repeating a behavior",
+          "Brain scan showing habit formation",
+          "Illustration of habit becoming automatic"
+        ]
+      },
+      "narration": "Repetition is key in habit formation. Through consistent practice, behaviors shift from requiring attention to seamlessly integrating into our daily lives."
+    },
+    {
+      "scene_id": 5,
+      "visuals": {
+        "type": "text_overlay",
+        "elements": [
+          "Habit Formation",
+          "Practice",
+          "Consistency"
+        ],
+        "background_type": "mindful_patterns"
+      },
+      "narration": "Embrace the journey of habit formation. Explore the power of repetition, practice, and unwavering consistency in transforming behaviors into automatic habits."
+    }
+  ],
+  "audio": {
+    "background_music": "upbeat_and_professional",
+    "narration_voice": {
+      "gender": "male",
+      "tone": "friendly",
+      "accent": "neutral"
+    }
+  }
+}

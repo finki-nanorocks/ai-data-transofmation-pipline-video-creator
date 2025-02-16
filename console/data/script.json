@@ -1,0 +1,58 @@
+{
+  "title": "Andrej Nankov: Software Engineer & Writer",
+  "description": "A short video introducing Andrej Nankov, a Software Engineer passionate about technology, finance, and personal growth.",
+  "scenes": [
+      {
+          "scene_id": 1,
+          "visuals": {
+              "type": "image",
+              "source": "A headshot of Andrej Nankov"
+          },
+          "narration": "Hi, I'm Andrej Nankov, a Software Engineer with a passion for solving technical challenges and building innovative solutions."
+      },
+      {
+          "scene_id": 2,
+          "visuals": {
+              "type": "text_overlay",
+              "elements": ["Finance", "Personal Growth", "Technology"],
+              "background_type": "abstract",
+              "background_color": "blue"
+          },
+          "narration": "Beyond coding, I'm an avid reader, exploring books on finance, personal growth, and technology. I share my insights to help others improve their lives and careers."
+      },
+      {
+          "scene_id": 3,
+          "visuals": {
+              "type": "text_list",
+              "elements": ["Finance", "Personality", "Software"],
+              "background_type": "minimal"
+          },
+          "narration": "On Medium, I write about finance, practical strategies to build wealth and manage money effectively. I also cover personality development, tips for self-improvement, and community building. And of course, I delve into the world of software, simplifying complex concepts and exploring trends in software development."
+      },
+      {
+          "scene_id": 4,
+          "visuals": {
+              "type": "image_collage",
+              "images": ["Image of Andrej coding", "Image of a book", "Image of a team collaborating"]
+          },
+          "narration": "When I'm not coding or writing, you'll find me contributing to open-source projects. I'm passionate about concepts, architectures, patterns, and building reliable systems."
+      },
+      {
+          "scene_id": 5,
+          "visuals": {
+              "type": "text_overlay",
+              "elements": ["Andrej Nankov", "Medium", "GitHub"],
+              "background_type": "social_media_icons"
+          },
+          "narration": "This is the profile. Find me on Medium and GitHub where I share my work and connect with the community."
+      }
+  ],
+  "audio": {
+      "background_music": "upbeat_and_professional",
+      "narration_voice": {
+          "gender": "male",
+          "tone": "friendly",
+          "accent": "neutral"
+      }
+  }
+}
